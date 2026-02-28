@@ -1,2 +1,2 @@
 region       = "sa-east-1"
-project_name = "routing"
+project_name = "sales-cluster"
